@@ -1,6 +1,9 @@
 % AAE 251 Fall 2022
 % Homework 09
 % Title of the code: GA and EV thrust and power 
+% This program uses inputs from an executive jet and general aviation aircraft 
+% to calculate and plot their required power and thrust, and available power 
+% and thrust from sea level to 30,000 meters.
 
 % Authors: Aidan Morrison
 
