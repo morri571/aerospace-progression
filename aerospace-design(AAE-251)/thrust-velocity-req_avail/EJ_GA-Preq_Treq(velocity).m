@@ -1,6 +1,8 @@
 % AAE 251 Fall 2022
 % Homework 08
-% Title of the code: 
+% Description: This program uses inputs from an executive jet and general
+% aviation aircraft to calculate and plot their required power and thrust, 
+% and available power and thrust as a function of their velocity at a constant altitude. 
 
 % Authors: Aidan Morrison
 
