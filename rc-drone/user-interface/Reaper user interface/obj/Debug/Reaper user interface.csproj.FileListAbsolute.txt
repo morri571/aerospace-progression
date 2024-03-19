@@ -1,0 +1,10 @@
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\bin\Debug\Reaper user interface.exe.config
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\bin\Debug\Reaper user interface.exe
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\bin\Debug\Reaper user interface.pdb
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper user interface.csproj.AssemblyReference.cache
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper_user_interface.ReaperUI.resources
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper_user_interface.Properties.Resources.resources
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper user interface.csproj.GenerateResource.cache
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper user interface.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper user interface.exe
+C:\Users\aidan\OneDrive\Desktop\Reaper user interface\Reaper user interface\Reaper user interface\obj\Debug\Reaper user interface.pdb
