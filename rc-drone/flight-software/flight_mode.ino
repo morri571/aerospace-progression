@@ -22,10 +22,12 @@ to voltage
 #define ESC_PIN 9
 
 Servo esc;
+Servo leftAileron;
 String combinedData;
 int start;
 int throttle;
 int end;
+int leftAileronDeflection;
 int values[3];
 
 void setup() 
@@ -56,12 +58,22 @@ void loop() {
       }
     }
       start = values[0];
-      throttle = values[1];
       end = values[2];
 
-      //int mappedThrottle = map(throttle, 0, 1023, 1000, 2000);
+      if(start == -1 && end == 256) //-1 is of type throttle (message header for identification, subject to change)
+      {
+        throttle = values[1];
+        esc.writeMicroseconds(throttle);
+      }
+      else if(start == -2 && end == 256) //-2 is of type leftAileron
+      {
+        leftAileronDeflection = values[1];
+        leftAileronwrite.Microseconds(leftAileronDeflection);
+      }
 
-      esc.writeMicroseconds(throttle);
+      //possibly switch case here
+
+      //int mappedThrottle = map(throttle, 0, 1023, 1000, 2000);
       Serial.print(throttle);
 
       delay(10);
